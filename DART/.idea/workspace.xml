@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfda40f4-3522-4ae1-960e-c217e1949e97" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pyivswNOApAvLL4XSv0j7npjjZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.que-10.dart.executor": "Run",
+    "Dart Command Line App.que-13.dart.executor": "Run",
+    "Dart Command Line App.que-16.dart.executor": "Run",
+    "Dart Command Line App.que-17.dart.executor": "Run",
+    "Dart Command Line App.que-18.dart.executor": "Run",
+    "Dart Command Line App.que-19.dart.executor": "Run",
+    "Dart Command Line App.que-20.dart.executor": "Run",
+    "Dart Command Line App.que-21.dart.executor": "Run",
+    "Dart Command Line App.que-22.dart.executor": "Run",
+    "Dart Command Line App.que-23.dart.executor": "Run",
+    "Dart Command Line App.que-24.dart.executor": "Run",
+    "Dart Command Line App.que-25.dart.executor": "Run",
+    "Dart Command Line App.que-26.dart.executor": "Run",
+    "Dart Command Line App.que-27.dart.executor": "Run",
+    "Dart Command Line App.que-28.dart.executor": "Run",
+    "Dart Command Line App.que-29.dart.executor": "Run",
+    "Dart Command Line App.que-30.dart.executor": "Run",
+    "Dart Command Line App.que-31.dart.executor": "Run",
+    "Dart Command Line App.que-32.dart.executor": "Run",
+    "Dart Command Line App.que-33.dart.executor": "Run",
+    "Dart Command Line App.que-34.dart.executor": "Run",
+    "Dart Command Line App.que-35.dart.executor": "Run",
+    "Dart Command Line App.que-36.dart.executor": "Run",
+    "Dart Command Line App.que-37.dart.executor": "Run",
+    "Dart Command Line App.que-38.dart.executor": "Run",
+    "Dart Command Line App.que-39.dart.executor": "Run",
+    "Dart Command Line App.que-43.dart.executor": "Run",
+    "Dart Command Line App.que-44.dart.executor": "Run",
+    "Dart Command Line App.que-45.dart.executor": "Run",
+    "Dart Command Line App.que-7.dart.executor": "Run",
+    "Dart Command Line App.que-9.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfda40f4-3522-4ae1-960e-c217e1949e97" name="Changes" comment="" />
+      <created>1733744952655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733744952655</updated>
+    </task>
+    <servers />
+  </component>
+</project>
